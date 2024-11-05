@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\using jwt tockens.props" />
+</Project>

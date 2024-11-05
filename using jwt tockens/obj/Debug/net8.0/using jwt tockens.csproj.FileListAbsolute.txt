@@ -1,0 +1,40 @@
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\appsettings.Development.json
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\appsettings.json
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\using jwt tockens.staticwebassets.runtime.json
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\using jwt tockens.exe
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\using jwt tockens.deps.json
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\using jwt tockens.runtimeconfig.json
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\using jwt tockens.dll
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\using jwt tockens.pdb
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\WEB\using jwt tockens\using jwt tockens\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.csproj.AssemblyReference.cache
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.AssemblyInfoInputs.cache
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.AssemblyInfo.cs
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.csproj.CoreCompileInputs.cache
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.MvcApplicationPartsAssemblyInfo.cache
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.RazorAssemblyInfo.cache
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.RazorAssemblyInfo.cs
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\staticwebassets.build.json
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\staticwebassets.development.json
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\staticwebassets\msbuild.using jwt tockens.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\staticwebassets\msbuild.build.using jwt tockens.props
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.using jwt tockens.props
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.using jwt tockens.props
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\staticwebassets.pack.json
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\scopedcss\bundle\using jwt tockens.styles.css
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\scopedcss\projectbundle\using jwt tockens.bundle.scp.css
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jw.104D58E1.Up2Date
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.dll
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\refint\using jwt tockens.dll
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.pdb
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\using jwt tockens.genruntimeconfig.cache
+C:\WEB\using jwt tockens\using jwt tockens\obj\Debug\net8.0\ref\using jwt tockens.dll
